@@ -183,8 +183,8 @@ The testbench generates a `wave.vcd` file for waveform analysis.
 ```text
 washing-machine-controller/
 │
-├── washer.v
-├── washer_tb.v
+├── Washer_RTL.v
+├── washer_tb
 ├── run.do
 ├── README.md
 │
